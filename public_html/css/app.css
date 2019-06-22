@@ -1,0 +1,53 @@
+html{
+	direction: rtl
+}
+
+.jumbotron{
+	margin-top: 60px;
+    padding: 24px;
+
+}
+
+.index-page-content{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.product{
+	background: #eee;
+    border: #ccc 2px solid;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.product div{
+	float: right;
+    margin-right: 150px;
+    font-size: 19px;
+    margin-top: 34px;
+}
+
+
+.product img{
+    float: right;
+    border: 3px #bbb solid;
+    border-radius: 12px;
+    padding: 5px;
+    background: #fff;
+    width: 200px;
+    height: 200px;
+}
+
+.addproduct{
+	border: 1px solid #bbb;
+	padding: 10px;
+}
+
+.addproduct p{
+	text-align: justify;
+}
+
+.addproduct textarea{
+	height: 200px;
+	resize: none;
+}
